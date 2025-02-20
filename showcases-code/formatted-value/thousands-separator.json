@@ -1,0 +1,1 @@
+{"template":"<template>\r\n<c-showcase-box path=\"formatted-value/thousands-separator\">\r\n  <formatted-value :number=\"3.1415926\" thousands-separator />\r\n  <br />\r\n  <formatted-value :number=\"1234567890123.1415926\" thousands-separator />\r\n</c-showcase-box>\r\n</template>","script":"","style":"<style></style>"}
